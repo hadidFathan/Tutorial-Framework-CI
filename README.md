@@ -12,6 +12,8 @@ Pembuatan Web Sisfoperpustakaan dengan Framework CodeIgniter. Selamat Mempelajar
 NB:Link Download untuk data web nya bisa kalian download di atas,di dalamnya sudah beserta Databasenya).
 
 Nama Anggota Bagian Menjelaskan Script pembuatan Web SisfoPerpustakaan:
+
+
 00.00 - 09.11 Riswan Hadiyanto (Pengenalan dan pembuatan awal Web perpustakaan dengan menggunakan Framework CI(CodeIgniter) dan pemasangan Template nya. )
 
 09.12 - 13.00 Anggia Arfiani Putrie (Pembuatan Database untuk web Sisfoperpustakaan.)
