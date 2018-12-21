@@ -15,7 +15,7 @@ Nama Anggota Bagian Menjelaskan Script pembuatan Web SisfoPerpustakaan:
 
 00.00 - 09.11 Riswan Hadianto NIM:16170061 (Pengenalan dan pembuatan awal Web perpustakaan dengan menggunakan Framework CI(CodeIgniter) dan pemasangan Template nya. )
 
-09.12 - 13.00 Anggi Anggia NIM:16170205 (Pembuatan Database untuk web Sisfoperpustakaan.)
+09.12 - 13.00 Anggi Afriani NIM:16170205 (Pembuatan Database untuk web Sisfoperpustakaan.)
 
 13.00 - 16.53 Fira Fathonah NIM:16170048 (Pembuatan Halaman web Buku di Controllers selanjutnya ke views buat folder baru Buku dan buat halaman add.php,edit php, dan Pembuatan BUku_Model di Model.)
 
